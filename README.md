@@ -39,6 +39,7 @@
 - GPT Search Page
 - GPT Search Bar
 - Multi-language Feature on GPT page (Bonus)
+- GPT integration
 
 
 # Features

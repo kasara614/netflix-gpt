@@ -6,11 +6,13 @@ import Footer from "./Footer";
 import usePopularMovies from "../hooks/usePopularMovies";
 import GptSearch from "./GptSearch";
 import { useSelector } from "react-redux";
+import useTopRatedMovies from "../hooks/useTopRatedMovies";
 
 const Browse = () => {
   const showGptSearch = useSelector((store) => store.gpt.showGptSearch);
   useNowPlayingMovies();
   usePopularMovies();
+  useTopRatedMovies();
 
   return (
     <div>

@@ -1,4 +1,4 @@
-# Netflix GPT [Live Demo](https://yt-home.netlify.app/)
+# Netflix GPT [Live Demo](https://netflixgpt-c715e.web.app/)
 
 - Create React App
 - Configured TailwindCSS
